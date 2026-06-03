@@ -2,85 +2,151 @@
 
 ## Overview
 
-Orbitopia AR is an Augmented Reality (AR) educational mobile application developed using Unity and Vuforia. The application allows users to explore planets in a more engaging and interactive way by visualizing 3D planetary models through AR technology.
+Orbitopia AR is an Augmented Reality (AR) educational mobile application developed using Unity, C#, and Vuforia. The application enables users to explore all planets within the Solar System through interactive 3D visualizations, educational information panels, and audio narration.
 
-The project was designed to enhance learning experiences by combining educational content with immersive AR interactions.
+By scanning predefined image targets, users can view realistic planetary models in AR and learn about each planet in an engaging and immersive environment.
+
+---
+
+## Key Highlights
+
+- Developed using Unity and Vuforia Engine
+- Marker-based Augmented Reality implementation
+- Interactive 3D Solar System visualization
+- Educational information panels for each planet
+- Audio narration for enhanced learning
+- Android mobile application
+
+---
 
 ## Features
 
-- Augmented Reality planet visualization
-- Interactive 3D planetary models
-- Image target recognition
-- Educational information panels
-- Mobile-friendly interface
-- Audio narration and interactive controls
+### Planet Exploration
+- Explore all planets in the Solar System
+- Interactive 3D planet visualization
+- Real-time AR rendering
+
+### Marker-Based AR
+- Scan image targets using the device camera
+- Detect and track AR markers
+- Display corresponding planetary models
+
+### Educational Learning
+- Detailed information panels
+- Planet facts and descriptions
+- Audio narration support
+
+### User Interface
+- Main menu navigation
+- Interactive buttons
+- Easy-to-use learning experience
+
+---
 
 ## Technologies Used
 
 ### Development
 - Unity
 - C#
+
+### AR Technology
 - Vuforia Engine
 
 ### Platform
 - Android
 
 ### Design Tools
-- Canva
 - Blender
+- Canva
+
+---
 
 ## Skills Demonstrated
 
 - Augmented Reality Development
-- Mobile Application Development
 - Unity Development
 - C# Programming
-- UI/UX Design
-- Educational Technology Development
+- Mobile Application Development
+- Marker Tracking Implementation
+- User Interface Design
+- Educational Application Development
+- 3D Asset Integration
 - Problem Solving
 
-## Project Workflow
+---
 
-1. User launches the application
-2. AR Camera scans image target
-3. 3D planet model appears
-4. User interacts with the model
-5. Educational information is displayed
-6. User explores different planets
+## Solar System Content
+
+The application includes:
+
+- Mercury
+- Venus
+- Earth
+- Mars
+- Jupiter
+- Saturn
+- Uranus
+- Neptune
+
+Each planet contains:
+- 3D Visualization
+- Educational Information
+- Audio Narration
+
+---
+
+## Application Workflow
+
+1. Launch the application
+2. Select the AR experience
+3. Scan the image target
+4. Planet model appears in AR
+5. View educational information
+6. Listen to audio narration
+7. Explore additional planets
+
+---
 
 ## Screenshots
 
 ### Main Menu
-(Add screenshot)
+![Main Menu](Screenshots/main-menu.png)
 
 ### AR Camera Detection
-(Add screenshot)
+![AR Camera](Screenshots/ar-camera.png)
 
 ### Planet Visualization
-(Add screenshot)
+![Planet Model](Screenshots/planet-model.png)
 
 ### Information Panel
-(Add screenshot)
+![Information Panel](Screenshots/info-panel.png)
+
+---
 
 ## Challenges Faced
 
-- Implementing image target recognition
-- Optimizing 3D models for mobile devices
-- Managing AR tracking stability
-- Designing a user-friendly educational experience
+- Implementing stable marker tracking
+- Optimizing 3D assets for mobile devices
+- Synchronizing AR interactions with educational content
+- Designing an intuitive learning experience for users
+
+---
 
 ## Learning Outcomes
 
 Through this project, I gained practical experience in:
 
-- AR application development
-- Unity and Vuforia integration
-- Mobile optimization
-- Interactive educational content design
-- User interface implementation
+- Augmented Reality development using Vuforia
+- Mobile application development with Unity
+- Marker-based object tracking
+- Educational technology design
+- User experience and interface design
+- 3D model integration and optimization
+
+---
 
 ## Author
 
-Mohamad Akram
-Bachelor of Computer Science (Multimedia)
+Mohamad Akram  
+Bachelor of Computer Science (Multimedia)  
 Universiti Tun Hussein Onn Malaysia
