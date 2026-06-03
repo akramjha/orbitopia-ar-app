@@ -1,5 +1,3 @@
-# orbitopia-ar-app
-
 # Orbitopia AR
 
 ## Overview
